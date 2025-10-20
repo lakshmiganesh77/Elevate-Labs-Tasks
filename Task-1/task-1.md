@@ -2,7 +2,7 @@
 
 **Date:** Mon Oct 20 2025
 
-**Repository:** `task1`
+**Repository:** `task-1`
 
 ## Objective
 
