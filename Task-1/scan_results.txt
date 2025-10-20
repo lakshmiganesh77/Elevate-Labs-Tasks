@@ -1,5 +1,5 @@
 # Nmap 7.95 scan initiated Mon Oct 20 13:21:14 2025 as: /usr/lib/nmap/nmap --privileged -sS -oN scan_results.txt 192.168.1.0/24
-Nmap scan report for 192.168.1.1
+Nmap scan report for 192.168.1.X
 Host is up (0.0020s latency).
 Not shown: 994 closed tcp ports (reset)
 PORT    STATE    SERVICE
@@ -9,9 +9,9 @@ PORT    STATE    SERVICE
 53/tcp  open     domain
 80/tcp  open     http
 443/tcp open     https
-MAC Address: 3C:46:45:01:01:5C (Shanghai Infinity Wireless Technologies)
+MAC Address: XX:XX:XX:XX:XX:XX 
 
-Nmap scan report for 192.168.1.2
+Nmap scan report for 192.168.1.xx
 Host is up (0.019s latency).
 Not shown: 993 closed tcp ports (reset)
 PORT     STATE    SERVICE
@@ -22,53 +22,53 @@ PORT     STATE    SERVICE
 8009/tcp open     ajp13
 8443/tcp open     https-alt
 9000/tcp open     cslistener
-MAC Address: 6E:50:92:C7:8F:BF (Unknown)
+MAC Address: XX:XX:XX:XX:XX:XX  (Unknown)
 
-Nmap scan report for I2302 (192.168.1.5)
+Nmap scan report for I2302 (192.168.1.xx)
 Host is up (0.0076s latency).
-All 1000 scanned ports on I2302 (192.168.1.5) are in ignored states.
+All 1000 scanned ports on I2302 (192.168.1.xx) are in ignored states.
 Not shown: 1000 closed tcp ports (reset)
-MAC Address: 3E:A1:E6:ED:13:4E (Unknown)
+MAC Address: XX:XX:XX:XX:XX:XX (Unknown)
 
-Nmap scan report for 192.168.1.6
+Nmap scan report for 192.168.1.xx
 Host is up (0.0075s latency).
-All 1000 scanned ports on 192.168.1.6 are in ignored states.
+All 1000 scanned ports on 192.168.1.xx are in ignored states.
 Not shown: 1000 closed tcp ports (reset)
-MAC Address: AA:62:B7:14:76:DA (Unknown)
+MAC Address: XX:XX:XX:XX:XX:XX  (Unknown)
 
-Nmap scan report for 192.168.1.7
+Nmap scan report for 192.168.1.xx
 Host is up (0.0055s latency).
-All 1000 scanned ports on 192.168.1.7 are in ignored states.
+All 1000 scanned ports on 192.168.1.xx are in ignored states.
 Not shown: 1000 closed tcp ports (reset)
-MAC Address: 8E:2E:91:9D:11:9F (Unknown)
+MAC Address: XX:XX:XX:XX:XX:XX  (Unknown)
 
-Nmap scan report for I2409 (192.168.1.11)
+Nmap scan report for I2409 (192.168.1.xx)
 Host is up (0.0097s latency).
 Not shown: 997 closed tcp ports (reset)
 PORT     STATE    SERVICE
 21/tcp   filtered ftp
 1719/tcp filtered h323gatestat
 1720/tcp filtered h323q931
-MAC Address: 06:F0:D7:08:89:91 (Unknown)
+MAC Address: XX:XX:XX:XX:XX:XX  (Unknown)
 
-Nmap scan report for 192.168.1.14
+Nmap scan report for 192.168.1.xx
 Host is up (0.00028s latency).
-All 1000 scanned ports on 192.168.1.14 are in ignored states.
+All 1000 scanned ports on 192.168.1.xx are in ignored states.
 Not shown: 1000 filtered tcp ports (no-response)
-MAC Address: 90:E8:68:13:E6:F7 (AzureWave Technology)
+MAC Address: XX:XX:XX:XX:XX:XX 
 
-Nmap scan report for 192.168.1.15
+Nmap scan report for 192.168.1.xx
 Host is up (0.046s latency).
 Not shown: 997 closed tcp ports (reset)
 PORT     STATE    SERVICE
 21/tcp   filtered ftp
 1719/tcp filtered h323gatestat
 1720/tcp filtered h323q931
-MAC Address: 74:BE:F3:D1:B7:09 (Motorola Mobility, a Lenovo Company)
+MAC Address: XX:XX:XX:XX:XX:XX 
 
-Nmap scan report for 192.168.1.20
+Nmap scan report for 192.168.1.xx
 Host is up (0.0000030s latency).
-All 1000 scanned ports on 192.168.1.20 are in ignored states.
+All 1000 scanned ports on 192.168.1.xx are in ignored states.
 Not shown: 1000 closed tcp ports (reset)
 
 # Nmap done at Mon Oct 20 13:21:46 2025 -- 256 IP addresses (9 hosts up) scanned in 31.96 seconds
