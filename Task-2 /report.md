@@ -155,5 +155,3 @@ Example:
 
 ---
 
-**Author:** _Phishing Detection Lab_  
-**Last updated:** October 2025
