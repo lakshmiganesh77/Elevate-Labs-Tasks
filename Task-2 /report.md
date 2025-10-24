@@ -13,11 +13,8 @@ Each step follows the agenda below:
 7. Verify presence of spelling or grammar errors  
 8. Summarize phishing traits found
 
----
 
-# 🕵️‍♂️ Phishing Email Analysis Walkthrough
-
-This README guides you through a hands-on phishing email analysis using a realistic public sample.  
+This guides you through a hands-on phishing email analysis using a realistic public sample.  
 Follow each documented step to practice detection and learn key traits.
 
 ---
